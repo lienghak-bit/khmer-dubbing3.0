@@ -2,3 +2,6 @@ edge-tts
 imageio-ffmpeg
 gtts
 SpeechRecognition
+qrcode
+Pillow
+
